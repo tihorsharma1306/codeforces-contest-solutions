@@ -1,2 +1,2 @@
 # codeforces-contest-solutions
-A curated collection of my Codeforces contest solutions
+A curated collection of Codeforces contest solutions
